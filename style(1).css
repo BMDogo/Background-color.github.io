@@ -1,0 +1,30 @@
+<style>
+    body {
+     background-color: #D8CAF6;
+     }
+    #A1 {
+      background-color: #D8CAF6;
+      color: Yellow;
+      border: 4px inset #9967E0;
+      border-radius: 20px;
+      padding: 5px
+    }
+    
+    #b1, #b2, #b3 {
+      background-color: #C2A9EF;
+      width: 100%;
+      border: 4px outset #9667E0;
+      border-radius: 20px;
+      color: White;
+      font-size: 15px;
+      text-style: Bold;
+    }
+    
+    #d1, #d2, #d3 {
+      background-color: 9667E0;
+      color: white;
+      border: 2px dashed green;
+      border-radius: 20px;
+      display: none; /* Initially hide the divs */
+    }
+  </style>
